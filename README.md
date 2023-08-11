@@ -36,3 +36,5 @@ int connect(int sockfd, struct sockaddr *serv_addr,socklen_t addrlen);
 ### TCP/IP 통신
 
 ### thread 사용
+
+### 출처 [OJ Tube](https://www.youtube.com/watch?v=GLMNFOCiGSU&list=PLz--ENLG_8TMdMJIwyqDIpcEOysvNoonf&index=22)
